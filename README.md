@@ -1,22 +1,51 @@
-# to-do-list
-Name :- Om tanmaya Pati
-Registration  Number:-2141016166
-Telegram username:-https://t.me/OmTanmayapati
-Mali id:=2141016166
-Features:
-Create, assign, organize, prioritize and share tasks.
+ ```markdown
+# TodoList Project
 
-Schedule recurring meetings.
+This is a simple TodoList project to help you keep track of your tasks and to-dos. You can download and use it on your local machine.
 
-Create and schedule recurring tasks.
+## Getting Started
 
-Manage tasks and to do lists with Kanban Boards.
+To get started with the TodoList project, follow these steps:
 
-Create and assign projects.
+### Prerequisites
 
-Comment on and assign tasks to projects or structure them independently.
+Before you begin, ensure you have the following software installed on your computer:
 
-Convert comments to tasks using Slack.
+- [Git](https://git-scm.com/downloads)
 
-Tech stack use:--
-The Joy of Programming   We Use basic hyper text markup language(HTML)  and Cascading style sheet for deign and for function this website we use Javascript "
+### Installation
+
+1. Clone the project repository to your local machine using Git. Open your terminal or command prompt and run the following command:
+
+   ```bash
+   git clone https://github.com/yourusername/TodoList.git
+   ```
+
+  
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd TodoList
+   ```
+
+3. Open the `index.html` file in your web browser:
+
+   ```
+   open index.html
+   ```
+
+   This will open the TodoList application in your browser.
+
+## Usage
+
+Once you have the TodoList application open in your browser, you can start adding, editing, and managing your tasks.
+
+- Click on the "Add Task" button to create a new task.
+- Click on a task to mark it as completed.
+- Click on the pencil icon to edit a task.
+- Click on the trash can icon to delete a task.
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
